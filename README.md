@@ -6,9 +6,9 @@ A minimalist USB brute-force tool developed using V-USB and an ATtiny85 microcon
 
 ### 🔧 Developed By:
 **CHRIZ**  
-Website: [chriz3656.github.io](https://chriz3656.github.io)  
+Website:
 Instagram: [@chriz_3656](https://instagram.com/chriz_3656)  
-GitHub: [github.com/chriz3656](https://github.com/chriz3656)
+GitHub: [chriz](https://github.com/chrizmonsaji.github.io)
 
 ---
 
