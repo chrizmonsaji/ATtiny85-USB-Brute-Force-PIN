@@ -2,9 +2,9 @@
  * USB Password Cracker for ATtiny85
  * ---------------------------------
  * Developed by: CHRIZ (a.k.a. chriz_3656)
- * Website: https://chriz3656.github.io 
+ * Website: 
  * Instagram: @chriz_3656
- * GitHub: github.com/chriz3656
+ * GitHub: github.com/chrizmonsaji.github.io/
  *
  * Description:
  *   This program emulates a USB HID keyboard to brute-force
